@@ -1,0 +1,23 @@
+body {
+    background-color: darkgray;
+}
+nav {
+    background-color: #7DF9FF;
+}
+
+#body {
+    background-color: darkgray;
+}
+.carousel-wrapper {
+    width: 800px;
+    height: 450px;
+    margin: 0 auto; 
+}
+
+.carousel-caption {
+    bottom: 20%; /* Adjust caption position */
+}
+#about, #projects, #contact {
+    padding-top: 70px; 
+    margin-top: -70px; 
+}
